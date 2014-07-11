@@ -4,8 +4,6 @@ import android.app.Activity;
 import android.graphics.Point;
 import android.view.ViewParent;
 
-import android.support.v7.app.ActionBar;
-import android.support.v7.app.ActionBarActivity;
 import com.github.amlcurran.showcaseview.targets.ActionBarViewWrapper;
 import com.github.amlcurran.showcaseview.targets.ActionBarReflector;
 
